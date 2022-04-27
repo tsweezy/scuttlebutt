@@ -25,4 +25,4 @@ _*I ask that you please do not copy any of the code present in this project for 
 
 ## Why "Scuttlebutt"?
 
-In hopes of not infringing on any protected intellectual properties, I clicked on the first Google search result for a list of naval terms. Scuttlebutt was the only term that made me chortle from mild amusement.
+In hopes of not infringing on any protected intellectual properties, I clicked on the first Google search result for a list of naval terms. Scuttlebutt just made me giggle.
